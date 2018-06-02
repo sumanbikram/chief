@@ -14,7 +14,7 @@
  * @package WordPress
  */
 
-define('WP_REDIS_HOST', '');
+define('WP_REDIS_HOST', 'redis01.zsubcm.0001.apse1.cache.amazonaws.com');
  
 define('WP_HOME','elb-wordpress-2071364120.ap-southeast-1.elb.amazonaws.com');
 define('WP_SITEURL','elb-wordpress-2071364120.ap-southeast-1.elb.amazonaws.com');
